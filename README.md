@@ -1,5 +1,5 @@
 
-# DevOps
+## DevOps
 
 - [Project 1](h)
 - [Project 1](h)
@@ -31,7 +31,7 @@
 - [Project 1](h)
 - [Project 1](h)
 
-# Security
+### Security
 
 - [Project 1](h)
 - [Project 1](h)
