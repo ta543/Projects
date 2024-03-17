@@ -1,35 +1,35 @@
 ## DevOps
 
-# Terraform
+## Terraform
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
 
-# Kubernetes
-
-- [Project 1](h)
-- [Project 1](h)
-- [Project 1](h)
-
-# GitHub Actions
+## Kubernetes
 
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
 
-# AWS
+## GitHub Actions
 
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
 
-# GCP
+## AWS
 
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
 
-# Azure
+## GCP
+
+- [Project 1](h)
+- [Project 1](h)
+- [Project 1](h)
+
+## Azure
 
 - [Project 1](h)
 - [Project 1](h)
