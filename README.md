@@ -13,7 +13,7 @@
 ## 🔄 GitHub Actions
 - [Cloud-Native Microservices Application with Kubernetes, Istio, and GitHub Actions Pipeline](https://github.com/ta543/ta-cloud-native-application)
 - [Cloud-Native Microservices Platform with Auto-Scaling and Automated CI/CD Pipeline](https://github.com/ta543/cloud-native-microservices-platform)
-- [Project 1](h)
+- [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
 
 ## ☁️ AWS
 - [Project 1](h)
