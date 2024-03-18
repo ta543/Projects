@@ -1,7 +1,7 @@
 # 🚀 DevOps 🚀
 
 ## 🛠️ Terraform
-- [Project 1](h)
+- [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
 - [Project 1](h)
 - [Project 1](h)
 
@@ -31,7 +31,7 @@
 - [Project 1](h)
 
 ## 🤖 Ansible
-- [Project 1](h)
+- [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
 - [Project 1](h)
 - [Project 1](h)
 
