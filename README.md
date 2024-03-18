@@ -13,7 +13,7 @@
 
 ## GitHub Actions
 
-- [Project 1](h)
+- [Cloud-Native Microservices Application with Kubernetes, Istio, and GitHub Actions Pipeline](https://github.com/ta543/ta-cloud-native-application)
 - [Project 1](h)
 - [Project 1](h)
 
