@@ -1,4 +1,4 @@
-# 🚀 DevOps Essentials 🚀
+# 🚀 DevOps 🚀
 
 ## 🛠️ Terraform
 - [Project 1](h)
