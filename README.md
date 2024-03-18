@@ -8,7 +8,7 @@
 ## Kubernetes
 
 - [Cloud-Native Application Deployment with Kubernetes and Istio](https://github.com/ta543/cloud-native-application)
-- [Cloud-Native Microservices Application with Kubernetes, Istio, and GitHub Actions Pipeline 🌩️📦🚀](https://github.com/ta543/ta-cloud-native-application)
+- [Cloud-Native Microservices Application with Kubernetes, Istio, and GitHub Actions Pipeline](https://github.com/ta543/ta-cloud-native-application)
 - [Project 1](h)
 
 ## GitHub Actions
