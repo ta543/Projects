@@ -1,4 +1,4 @@
-# 🚀 DevOps 🚀
+# 🚀 DevOps Projects 🚀
 
 ## 🛠️ Terraform
 - [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
@@ -54,7 +54,7 @@
 
 
 
-## 🔒 Security
+# 🔒 Security Projects
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
