@@ -32,7 +32,7 @@
 
 ## 🤖 Ansible
 - [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
-- [Project 1](h)
+- [Dynamic Multi-Cloud Service Mesh Deployment Project](https://github.com/ta543/dynamic-service-mesh-deployment)
 - [Project 1](h)
 
 ## 🤖 Prometheus
