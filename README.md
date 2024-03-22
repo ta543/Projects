@@ -33,7 +33,7 @@
 ## 🤖 Ansible
 - [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
 - [Dynamic Multi-Cloud Service Mesh Deployment Project](https://github.com/ta543/dynamic-service-mesh-deployment)
-- [Project 1](h)
+- [Multi-Environment Cloud Infrastructure Suite with Ansible](https://github.com/ta543/ansible-cloud-suite)
 
 ## 🤖 Prometheus
 - [Project 1](h)
@@ -123,7 +123,7 @@
 - [Project 1](h)
 - [Project 1](h)
 
-## 🔒 Security
+## 🔒 Vagrant
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
