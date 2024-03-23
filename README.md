@@ -46,7 +46,7 @@
 ## 🤖 Istio
 - [Cloud-Native Microservices Application with Kubernetes, Istio, and GitHub Actions Pipeline](https://github.com/ta543/ta-cloud-native-application)
 - [Resilient Cloud-Native Application with Istio Service Mesh: A Retrospective](https://github.com/ta543/Resilient-Cloud-Native-Application)
-- [Project 1](h)
+- [Istio E-Commerce Platform](https://github.com/ta543/istio-e-commerce)
 
 ## 🔒 Scripting
 - [Project 1](h)
