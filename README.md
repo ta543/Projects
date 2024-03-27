@@ -2,7 +2,7 @@
 
 ## 🛠️ Terraform
 - [Infinity Pipeline](https://github.com/ta543/DevOps-Infinity-Pipeline)
-- [Project 1](h)
+- [Scalable and Secure Multi-Tier Web Application Infrastructure](https://github.com/ta543/multi-cloud-kubernetes)
 - [Project 1](h)
 
 ## ⚓ Kubernetes
@@ -36,11 +36,11 @@
 - [Multi-Environment Cloud Infrastructure Suite with Ansible](https://github.com/ta543/ansible-cloud-suite)
 
 ## 🤖 Prometheus
-- [Project 1](h)
+- [Microservices Deployment and Management Platform](https://gitlab.com/ta543/microservices-platform)
 - [Project 1](h)
 
 ## 🤖 Grafana
-- [Project 1](h)
+- [Microservices Deployment and Management Platform](https://gitlab.com/ta543/microservices-platform)
 - [Project 1](h)
 
 ## 🤖 Istio
@@ -64,7 +64,7 @@
 - [Project 1](h)
 
 ## 🔒 GitLab CI
-- [Project 1](h)
+- [Microservices Deployment and Management Platform](https://gitlab.com/ta543/microservices-platform)
 - [Project 1](h)
 - [Project 1](h)
 
@@ -79,11 +79,6 @@
 - [Project 1](h)
 
 ## 🔒 OpenShift
-- [Project 1](h)
-- [Project 1](h)
-- [Project 1](h)
-
-## 🔒 ELK Stack
 - [Project 1](h)
 - [Project 1](h)
 - [Project 1](h)
